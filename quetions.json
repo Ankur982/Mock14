@@ -1,0 +1,362 @@
+[
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What prime number comes next after 19?",
+        "correct_answer": "23",
+        "incorrect_answers": [
+            "25",
+            "21",
+            "27"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the symbol for Displacement?",
+        "correct_answer": "&Delta;r",
+        "incorrect_answers": [
+            "dr",
+            "Dp",
+            "r"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The metric prefix &quot;atto-&quot; makes a measurement how much smaller than the base unit?",
+        "correct_answer": "One Quintillionth",
+        "incorrect_answers": [
+            "One Billionth",
+            "One Quadrillionth",
+            "One Septillionth"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How many sides does a heptagon have?",
+        "correct_answer": "7",
+        "incorrect_answers": [
+            "8",
+            "6",
+            "5"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the correct order of operations for solving equations?",
+        "correct_answer": "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+        "incorrect_answers": [
+            "Addition, Multiplication, Division, Subtraction, Addition, Parentheses",
+            "Parentheses, Exponents, Addition, Substraction, Multiplication, Division",
+            "The order in which the operations are written."
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the first Mersenne prime exponent over 1000?",
+        "correct_answer": "1279",
+        "incorrect_answers": [
+            "2203",
+            "1009",
+            "1069"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the alphanumeric representation of the imaginary number?",
+        "correct_answer": "i",
+        "incorrect_answers": [
+            "e",
+            "n",
+            "x"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What Greek letter is used to signify summation?",
+        "correct_answer": "Sigma",
+        "incorrect_answers": [
+            "Delta",
+            "Alpha",
+            "Omega"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which mathematician refused the Fields Medal?",
+        "correct_answer": "Grigori Perelman",
+        "incorrect_answers": [
+            "Andrew Wiles",
+            "Terence Tao",
+            "Edward Witten"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+        "correct_answer": "90",
+        "incorrect_answers": [
+            "180",
+            "270",
+            "0"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the derivative of Acceleration with respect to time?",
+        "correct_answer": "Jerk",
+        "incorrect_answers": [
+            "Shift",
+            "Bump",
+            "Slide"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "How many zeptometres are inside one femtometre?",
+        "correct_answer": "1,000,000",
+        "incorrect_answers": [
+            "10",
+            "1,000,000,000",
+            "1000"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?",
+        "correct_answer": "Folium of Descartes",
+        "incorrect_answers": [
+            "Elliptic Paraboloid of Descartes",
+            "Cartesian Coordinates",
+            "Descarte&#039;s Helicoid"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following famous mathematicians died in a duel at the age of 20?",
+        "correct_answer": "Galois",
+        "incorrect_answers": [
+            "Abel",
+            "Euler",
+            "Gauss"
+        ]
+    },
+    {
+        "category": "Science: Mathematics",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following mathematicians made major contributions to game theory?",
+        "correct_answer": "John Von Neumann",
+        "incorrect_answers": [
+            "Carl Friedrich Gauss",
+            "Leonhard Euler",
+            "Stefan Banach"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Microsoft",
+            "Atari",
+            "Commodore"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In any programming language, what is the most common way to iterate through an array?",
+        "correct_answer": "&#039;For&#039; loops",
+        "incorrect_answers": [
+            "&#039;If&#039; Statements",
+            "&#039;Do-while&#039; loops",
+            "&#039;While&#039; loops"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+        "correct_answer": "Objective-C",
+        "incorrect_answers": [
+            "C#",
+            "Ruby",
+            "C++"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+        "correct_answer": "Final",
+        "incorrect_answers": [
+            "Static",
+            "Private",
+            "Public"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the domain name for the country Tuvalu?",
+        "correct_answer": ".tv",
+        "incorrect_answers": [
+            ".tu",
+            ".tt",
+            ".tl"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Whistler was the codename of this Microsoft Operating System.",
+        "correct_answer": "Windows XP",
+        "incorrect_answers": [
+            "Windows 2000",
+            "Windows 7",
+            "Windows 95"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+        "correct_answer": "Year",
+        "incorrect_answers": [
+            "Four Years",
+            "Two Years",
+            "Eight Years"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What five letter word is the motto of the IBM Computer company?",
+        "correct_answer": "Think",
+        "incorrect_answers": [
+            "Click",
+            "Logic",
+            "Pixel"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+        "correct_answer": "Clipper Chip",
+        "incorrect_answers": [
+            "Enigma Machine",
+            "Skipjack",
+            "Nautilus"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the default theme that is installed with Windows XP?",
+        "correct_answer": "Luna",
+        "incorrect_answers": [
+            "Neptune",
+            "Whistler",
+            "Bliss"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Harvard architecture for micro-controllers added which additional bus?",
+        "correct_answer": "Instruction",
+        "incorrect_answers": [
+            "Address",
+            "Data",
+            "Control"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following is the oldest of these computers by release date?",
+        "correct_answer": "TRS-80",
+        "incorrect_answers": [
+            "Commodore 64",
+            "ZX Spectrum",
+            "Apple 3"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+        "correct_answer": "Game Maker",
+        "incorrect_answers": [
+            "Stencyl",
+            "Construct",
+            "Torque 2D"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The acronym &quot;RIP&quot; stands for which of these?",
+        "correct_answer": "Routing Information Protocol",
+        "incorrect_answers": [
+            "Runtime Instance Processes",
+            "Regular Interval Processes",
+            "Routine Inspection Protocol"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+        "correct_answer": "Coffee Lake",
+        "incorrect_answers": [
+            "Sandy Bridge",
+            "Skylake",
+            "Broadwell"
+        ]
+    }
+]
